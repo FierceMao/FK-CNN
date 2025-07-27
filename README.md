@@ -127,7 +127,7 @@ Handcrafted with ❤️ in 2025-07
 
 ## 📄 License | 开源协议
 
-Apache License.
+GPL License v3.0.
 
 ---
 
