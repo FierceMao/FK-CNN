@@ -1,4 +1,4 @@
-# Handmade-CNN
+# FK-CNN | 从零开始的卷积神经网络
 
 > 🚀 A convolutional neural network implemented from scratch using only NumPy.
 
@@ -94,19 +94,7 @@ pip install -r requirements.txt
 ### Step 1: Load and preprocess data
 
 ```bash
-python dataset.py
-```
-
-### Step 2: Train model
-
-```bash
-python train.py
-```
-
-### Step 3: Evaluate model
-
-```bash
-python test.py
+python main.py
 ```
 
 ---
